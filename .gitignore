@@ -1,1 +1,5 @@
-/laba-3
+*
+!/.gitignore
+!/main.cpp
+!/input.txt
+!/README.md
